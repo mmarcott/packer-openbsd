@@ -1,7 +1,7 @@
 {
   "variables": {
     "chef_version": "provisionerless",
-    "mirror": "http://ftp.openbsd.org"
+    "mirror": "http://mirror.team-cymru.org"
   },
   "provisioners": [
     {
